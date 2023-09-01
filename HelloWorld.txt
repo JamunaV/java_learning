@@ -4,3 +4,4 @@ Git hub maintains 3 copies of your source code
 1. Working Copy
 2. Local Copy ( git add and commit)
 3. Remote Copy (push)
+4. Faced some issues while pushing the code 
